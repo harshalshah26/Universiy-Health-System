@@ -1,0 +1,36 @@
+.container
+{
+	width:100%;	
+	background-color:#FFFF99;
+	height:auto;
+}
+.header
+{
+	width:inherit;
+	height:70px;
+	font-size:30px;
+	background-color:#FFCC00;
+	color:#000000;
+	margin-top:10px;
+	
+}
+.right
+{
+	width:80%;
+	height:auto;
+	float:left;
+	background-color:#FFFF99;
+}
+
+.left
+{
+	width:20%;
+	height:auto;
+	float:left;
+	background-color:#FFFF99;
+}
+#bottom
+{
+background-color:#FFFF99;
+height:auto;
+}
